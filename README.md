@@ -5,7 +5,7 @@ A real-time traffic light control system implemented using ESP32 and FreeRTOS. T
 
 ## 🔧 Tech Stack
 
-- ESP32 (NodeMCU)
+- ESP32 wroom 32
 - FreeRTOS (built-in with Arduino framework)
 - Embedded C using Arduino IDE
 - Serial Monitor for debugging
